@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
+            
             Console.Write("Xin chao cac ban");
             Console.ReadLine();
         }
